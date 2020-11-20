@@ -1,0 +1,29 @@
+button{
+   width:40%;
+  height:3rem;
+  background-color: rgb(160, 122, 122);
+}
+
+*{
+  background-color: lightslategray;
+  margin:0;
+  box-sizing: 0;
+}
+
+.boxSize{
+
+  width:20%;
+  height:75%;
+  border:2px solid black;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding:30px;
+   margin-left: 30%;
+   margin-top: 10%; 
+}
+.profile{
+  margin-left: 38%;
+  margin-top: 5px; 
+}
