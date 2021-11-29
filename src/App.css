@@ -11,19 +11,31 @@ button{
 }
 
 .boxSize{
-
-  width:20%;
-  height:75%;
-  border:2px solid black;
-  display:flex;
+  width: 20%;
+  height: 75%;
+  border: 2px solid black;
+  display: flex;
   justify-content: center;
   align-items: center;
   background-color: white;
-  padding:30px;
-   margin-left: 30%;
-   margin-top: 10%; 
+  padding: 30px;
+  margin-left: 35%;
+  margin-top: 5%;
 }
 .profile{
-  margin-left: 38%;
-  margin-top: 5px; 
+  margin-left: 24%;
+  margin-top: 35px;
+}
+
+.email-picture{
+  padding: 30px 10px 34px 245px;
+}
+
+.title{
+  background-color: lightslategrey;
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+
 }
